@@ -1,0 +1,7 @@
+
+
+NOT
+AND
+OR
+NAND
+NOR
